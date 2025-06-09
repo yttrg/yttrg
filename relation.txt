@@ -1,0 +1,7 @@
+bilibili_scraper/
+│
+├── input_utils.py       # 弹窗输入相关功能
+├── parse_utils.py       # 播放量解析等辅助函数
+├── scraper.py           # 核心爬取逻辑
+├── save_utils.py        # 保存Excel的功能
+└── main.py              # 主入口，调用各模块组合流程
